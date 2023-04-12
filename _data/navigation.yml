@@ -2,17 +2,18 @@
 main:
   - title: "Projects"
     url: /projects/
-  - title: "PRs"
-    url: /PRs/  
+
+  # - title: "PRs"
+  #   url: /PRs/  
 
   - title : "Publications"
-    url: "/publications/"
+    url: "/publication/"
 
   - title: "Blog"
     url: /Blogs/ 
 
-  - title: "GSoC"
-    url: /GSoC/ 
+  # - title: "GSoC"
+  #   url: /GSoC/ 
   
   - title: "CV"
     url: /cv/
