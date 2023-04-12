@@ -19,4 +19,8 @@ Example: editing a markdown file for a talk
 
 Updates
 ------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+
+- **23 Feb, 2023**: Successfully completed the Neural Networks course by [Andrej Karpathy]((<https://www.youtube.com/playlist?list=PLAqhIrjkxbuWI23v9cThsA9GvCAUhRvKZ>) ), gaining proficiency in machine learning and artificial intelligence.
+- **1 Oct, 2022**: Completed the Engineering Mathematics course,acquiring essential skills in calculus, linear algebra, and differential equations.
+- **30 Aug, 2022**: Completed Discrete Maths,Overcame challenging problems and emerged with a deep understanding of this complex field.
+- **18 July, 2022**: Successfully completed the DBMS course, gaining proficiency in designing, implementing and querying databases..
