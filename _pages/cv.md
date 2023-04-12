@@ -8,4 +8,4 @@ redirect_from:
 ---
 
 {% include base_path %}
-[Download](http://karm-patel.github.io/files/Karm_Patel_CV.pdf) CV in pdf format
+[Download](https://github.com/chinu-2000/chandresh-pandey.github.io/blob/main/files/Chandresh_Intern.pdf) CV in pdf format
