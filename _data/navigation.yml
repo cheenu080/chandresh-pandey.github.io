@@ -10,7 +10,7 @@ main:
     url: "/publications/"
 
   - title: "Blog"
-    url: /Blogs/ 
+    url: /blogs/ 
 
   # - title: "GSoC"
   #   url: /GSoC/ 
