@@ -3,9 +3,6 @@ main:
   - title: "Projects"
     url: /projects/
 
-  - title: "PRs"
-    url: /PRs/  
-
   - title : "Publications"
     url: "/publications/"
 
@@ -14,6 +11,8 @@ main:
 
   # - title: "GSoC"
   #   url: /GSoC/ 
+  - title: "Blog"
+    url: /PRs/
   
   - title: "CV"
     url: /cv/
