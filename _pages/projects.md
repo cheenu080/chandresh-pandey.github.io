@@ -6,7 +6,7 @@ author_profile: true
 
 <h2> Projects </h2>
 
-### 1.  Handwritten Digits Classification (Python, Numpy)
+### 1.  Handwritten Digits Classification (Python)
 FEB 20 - FEB 22, [Github](https://github.com/chinu-2000/AI-ML/blob/main/%20Handwritten%20Digits%20Classification/%20Handwritten%20Digits%20Classification.ipynb)
 
 -  The Handwritten Digits Classification project aims to classify images of handwritten digits from 0 to 9 using neural networks.
@@ -16,7 +16,7 @@ FEB 20 - FEB 22, [Github](https://github.com/chinu-2000/AI-ML/blob/main/%20Handw
 -  Finally, the model is evaluated on the test dataset with 10,000 images and achieves an accuracy of 97.73%.
 
 
-### 2. Home Price Deduction (Python, Numpy )
+### 2. Home Price Deduction (Python)
 
 FEB 23, [Github](https://github.com/chinu-2000/AI-ML/blob/main/Home%20Price%20Deduction/Home%20Price%20Deduction.ipynb)
 
