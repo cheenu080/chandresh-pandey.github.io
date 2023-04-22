@@ -6,37 +6,34 @@ author_profile: true
 
 <h2> Projects </h2>
 
-### 1. Attendance System using Face Recognition (Python, Flask, SQL)
-MAR 21 - MAY 21, [Github](https://github.com/Attendance-Using-Face-Recognition/Online-Attendance-Using_Face-Recognition.git)
+### 1.  Handwritten Digits Classification (Python, Numpy)
+JAN 5 - JAN 7, [Github](https://github.com/chinu-2000/AI-ML/blob/main/%20Handwritten%20Digits%20Classification/%20Handwritten%20Digits%20Classification.ipynb)
 
-- **Web**: Flask-based web application that provides functionalities such as taking attendance using face recognition, downloading attendance, adding lectures.
+-  The Handwritten Digits Classification project aims to classify images of handwritten digits from 0 to 9 using neural networks.
+-  The code uses TensorFlow and Keras to create a simple neural network with an input layer of 784 elements and an output layer of 10 elements.
+-  The input images are flattened into a single column containing 784 elements to be fed as input to the neural network.
+-  The model is trained on the MNIST dataset with 60,000 images of 28x28 pixels for five epochs and achieves an accuracy of 92.55%.
+-  Finally, the model is evaluated on the test dataset with 10,000 images and achieves an accuracy of 97.73%.
 
-- **Face recognition**: In this [blog](https://karm-patel.github.io/Blogs/fastpages/jupyter/2021/03/25/face_recognization.html) I implemented face recognition part. I have used the **Caffe** model to detect a face, the **FaceNet** model to get face embeddings & the **SVM** model to classify faces. 
-- **Database**: I have used local MySQL database to store attendance records of students.
 
-### 2. Vaccine Slot Notifier (Web scrapping, Python, Flask, AWS EC2)
+### 2. Home Price Deduction (Python, Numpy )
 
-MAY 21, [Github](https://github.com/karm-patel/Vaccine-Slot-Notifier.git)
+MAY 21, [Github](https://github.com/chinu-2000/AI-ML/blob/main/Home%20Price%20Deduction/Home%20Price%20Deduction.ipynb)
 
-I made this project when the Indian government started a vaccination drive. But due to uncertain time in updating vaccination slot, one had to check [cowin](https://www.cowin.gov.in/) portal continuously. I made this application to help people to get notification of vaccine slot when slot is available. Around more than **200 people** registered on this website.
+- Used Python and various libraries, including Pandas, NumPy, and Scikit-learn, to perform linear regression on a dataset of home prices.
+- Plotted a scatter graph to visualize the relationship between the area of a house and its price.
+- Trained a linear regression model to predict the price of a house based on its area using Scikit-learn's LinearRegression class.
+- Used the trained model to predict the price of a house with an area of 3300 sq. ft. and found it to be 628,715.75 US dollars.
+<!-- ### 3. 
+NOV 19 - JAN 20, [Github](https://github.com/)
 
-- **Web**: I deployed a Live Web application (using flask) on AWS Ec2 instance which collects the necessary details of a user & notifies him/her via email when a vaccine slot is available in his/her area.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
+- quis nostrud exercitation ullamco
+- quis nostrud exercitation ullamco
+- quis nostrud exercitation ullamco
 
-- **Web scrapper**: I made Web-Scrapper using **requests & a beautiful soap** python library which continuously scrapes data from the Cowin website.
-  
-I also made [command line application](https://github.com/karm-patel/Vaccine-Slot-Notifier-Single-user), if user wants to run script on personal PC to reduce gap between actual slot updation time and notification time. 
-   
-### 3. ChatPlus (Android, Firebase)
-NOV 19 - JAN 20, [Github](https://github.com/karm-patel/HostelManagementWebSystem.git)
+### 4. 
+NOV 19 - JAN 20, [Github](https://github.com/)
 
-This is a mini project which is a simple chatting application built in Android and Firebase.
-I explored,
-- Android designing and backend skills
-- JAVA API to connect with firebase and especially asynchronous nature of firebase database
-- Finally I published the play store using Google Play Console
-
-### 4. Hostel Management Web System (PHP, MySQL)
-NOV 19 - JAN 20, [Github](https://github.com/karm-patel/HostelManagementWebSystem.git)
-
-- Web to manage the hostel which includes admission process, document verification, room allocation, complaint section, and other facilities to reduce manual work. The website is developed using HTML, CSS, Bootstrap, JS, PHP, and MySQL
-
+- Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+ -->
