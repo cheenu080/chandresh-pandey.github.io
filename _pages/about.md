@@ -12,7 +12,7 @@ Actively Looking for Internships/Jobs (2023) in Software Engineering
 
 About
 ------
-I have explored various domains of Computer Science such as Intelligent systems, Deep Learning, and Neural Networks while pursuing my undergraduate degree from Govind Ballabh Pant Institute of Engineering & Technology in Uttarakhand,India. I am passionate about applying my skills to innovative projects in the industry and constantly seek out opportunities to learn and grow.
+I have had the opportunity to explore various domains of Computer Science, including Data Structures and Algorithms, Intelligent Systems, Deep Learning, and Neural Networks, during my undergraduate studies at Govind Ballabh Pant Institute of Engineering & Technology in Uttarakhand, India. I am excited to continue building on this foundation and applying my skills to innovative projects in the industry.
 
 Updates
 ------
