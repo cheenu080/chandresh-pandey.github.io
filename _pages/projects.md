@@ -6,22 +6,20 @@ author_profile: true
 
 <h2> Projects </h2>
 
-### 1.  Handwritten Digits Classification (Python)
-FEB 20 - FEB 22, [Github](https://github.com/chinu-2000/AI-ML/blob/main/%20Handwritten%20Digits%20Classification/%20Handwritten%20Digits%20Classification.ipynb)
+### 1.  PyTorch Transformer
+``PyTorch``
+• Implemented the Transformer model from the ``Attention Is All You Need`` paper by Vaswani et al. using PyTorch.
+• Applied the Transformer model to various natural language processing tasks, such as machine translation and sentiment analysis.
 
--  The Handwritten Digits Classification project aims to classify images of handwritten digits from 0 to 9 using neural networks.
--  The code uses TensorFlow and Keras to create a simple neural network with an input layer of 784 elements and an output layer of 10 elements.
--  The input images are flattened into a single column containing 784 elements to be fed as input to the neural network.
--  The model is trained on the MNIST dataset with 60,000 images of 28x28 pixels for five epochs and achieves an accuracy of 92.55%.
--  Finally, the model is evaluated on the test dataset with 10,000 images and achieves an accuracy of 97.73%.
+### 2. PDF-Synopsis Generator
+``Python, Flask, HuggingFace`` 
+• SummarizeMaster is an AI-powered application designed to simplify reading by extracting concise summaries from PDF books.
+• It utilizes advanced models BART to provide insightful book summaries efficiently.
 
-
-### 2. Home Price Deduction (Python)
-
-FEB 23, [Github](https://github.com/chinu-2000/AI-ML/blob/main/Home%20Price%20Deduction/Home%20Price%20Deduction.ipynb)
-
-- Used Python and various libraries, including Pandas, NumPy, and Scikit-learn, to perform linear regression on a dataset of home prices.
-- Plotted a scatter graph to visualize the relationship between the area of a house and its price.
-- Trained a linear regression model to predict the price of a house based on its area using Scikit-learn's LinearRegression class.
-- Used the trained model to predict the price of a house with an area of 3300 sq. ft. and found it to be 628,715.75 US dollars.
-
+### 3. Lung cancer prediction using Image-Segmentation, Equalization and Transfer learning
+``Tensorflow, OpenCV, Seaborn``
+• Implemented an automatic lung cancer detection system using deep learning techniques to improve accuracy and reduce diagnosis time.
+• Employed image processing methods, including Histogram Equalization and Threshold Segmentation, to preprocess CT scan images for better
+contrast and segmentation.
+• Developed and trained various deep learning models, including Convolutional Neural Networks (CNN), VGG16, VGG19, MobileNet,
+ResNet50, Xception, and InceptionV3, for lung cancer prediction,
