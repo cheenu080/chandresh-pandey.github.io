@@ -16,7 +16,9 @@ I have had the opportunity to explore various domains of Computer Science, inclu
 
 Updates
 ------
-
+- **5 Sep, 2023**: Became Kaggle Contributor.
+- **8 Aug, 2023**: I successfully completed a Kaggle course specializing in Computer Vision.
+- **19 July, 2023**: I successfully completed a Kaggle course specializing in Deep Learning.
 - **23 Feb, 2023**: Successfully completed the Neural Networks course by [Andrej Karpathy], gaining proficiency in machine learning and artificial intelligence.
 - **1 Oct, 2022**: Completed the Engineering Mathematics course,acquiring essential skills in calculus, linear algebra, and differential equations.
 - **30 Aug, 2022**: Completed Discrete Maths,Overcame challenging problems and emerged with a deep understanding of this complex field.
