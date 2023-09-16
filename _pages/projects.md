@@ -12,12 +12,12 @@ author_profile: true
 - Applied the Transformer model to various natural language processing tasks, such as machine translation and sentiment analysis.
 
 ### 2. PDF-Synopsis Generator
-$Python$, $Flask$, $HuggingFace$
+*Python, Flask, HuggingFace*
 - SummarizeMaster is an AI-powered application designed to simplify reading by extracting concise summaries from PDF books.
 - It utilizes advanced models BART to provide insightful book summaries efficiently.
 
 ### 3. Lung cancer prediction using Image-Segmentation, Equalization and Transfer learning
-$Tensorflow, OpenCV, Seaborn$
+*Tensorflow, OpenCV, Seaborn*
 - Implemented an automatic lung cancer detection system using deep learning techniques to improve accuracy and reduce diagnosis time.
 - Employed image processing methods, including Histogram Equalization and Threshold Segmentation, to preprocess CT scan images for better
 contrast and segmentation.
